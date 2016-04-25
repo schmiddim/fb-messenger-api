@@ -1,0 +1,21 @@
+{
+  "name": "schmiddim/fb-messenger-api",
+  "description": "mvg-package is an API Wrapper for the Facebook Messenger API  https://developers.facebook.com/docs/messenger-platform/send-api-reference ",
+  "homepage": "http://www.radikalblogger.de",
+  "license": "GPL-3.0",
+  "autoload": {
+    "psr-4": {"Schmiddim\\Facebook\\": "src/"}
+  },
+  "authors": [
+    {
+      "name": "Michael Schmitt",
+      "email": "schmiddim@gmx.at"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5"
+  },
+  "require-dev": {
+  }
+}
